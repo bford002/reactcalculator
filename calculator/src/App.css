@@ -46,7 +46,7 @@
   grid-gap: 10px;
 }
 
-.button {
+button {
   border: none;
   background-color: rgb(80, 60, 209);
   font-size: 24px;
@@ -57,7 +57,7 @@
   outline: none;
 }
 
-.button:hover {
+button:hover {
   background-color: rgb(61, 43, 184);
 }
 
